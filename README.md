@@ -1,2 +1,3 @@
 # .presentations
-Shared Presentations
+Presentations shared at speakerdeck.com
+
